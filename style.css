@@ -1,0 +1,26 @@
+p{font-family: 'Courier New', Courier, monospace;
+    color:red;
+    text-align: center;
+    text-decoration: underline green;
+    font-size:50px
+}
+.green{
+    width: 500px;
+    height: 300px;
+    background-color: green;
+    position: absolute;
+    margin: auto;
+    
+}
+.red{width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 130px;
+    border-radius: 500px;
+    
+    
+
+
+}
